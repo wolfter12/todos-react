@@ -10,7 +10,8 @@ const styles = {
     padding: '.5rem 1rem',
     border: '1px solid #ccc',
     borderRadius: '4px',
-    marginBottom: '.5rem'
+    marginBottom: '.5rem',
+    background: 'white'
   },
   input: {
     marginRight: '1rem'
