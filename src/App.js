@@ -49,7 +49,7 @@ function App() {
   return (
     <Context.Provider value={{ removeTodo }}>
       <div className='wrapper'>
-        <h1>React tutorial</h1>
+        <h1>Example of todos</h1>
         <AddTodo onCreate={addTodo} />
 
         {loading && <Loader />}
